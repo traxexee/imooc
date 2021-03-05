@@ -1,0 +1,6 @@
+456/imooc-news-dev/.idea/*
+456/imooc-news-dev/imooc-news-dev-common/target/*
+456/imooc-news-dev/imooc-news-dev-model/target/*
+456/imooc-news-dev/imooc-news-dev-service-api/target/*
+456/imooc-news-dev/imooc-news-dev-service-user/target/*
+456/imooc-news-dev/mybatis-generator-database/target/*
